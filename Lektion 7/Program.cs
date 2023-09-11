@@ -5,6 +5,7 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, Felix!");
+            Console.WriteLine("Detta är version 2 ");
             
         }
     }
